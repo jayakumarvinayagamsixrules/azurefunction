@@ -1,0 +1,1 @@
+This repository used to learn Microsoft Azure functions
